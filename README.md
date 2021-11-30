@@ -10,7 +10,7 @@
 
 ## Descripción y contexto
 ---
-Se lleva a la práctica manipular datos con el ORM Sequelize.
+Se lleva a la práctica la manipulación de datos con el ORM Sequelize.
 
 ---
 
